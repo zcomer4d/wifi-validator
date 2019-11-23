@@ -18,4 +18,7 @@ Languages Posted:
 <a href="http://github.com/zcomer4d/wifi-validator/tree/Javascript"> Javascript </a>
 </br >
 <a href="http://github.com/zcomer4d/wifi-validator/tree/Windows-Kerenel"> Windows Kerenel </a>
+</br >
+<a href="http://github.com/zcomer4d/wifi-validator/blob/master/CODE-OF-CONDUCT.md"> Windows Kerenel </a>
+
 
