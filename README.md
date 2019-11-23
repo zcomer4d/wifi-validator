@@ -3,6 +3,8 @@ I Will Make HTML. Please Post Javascript and CSS. we are focusing on a app that 
 </br >
 <a href="http://github.com/zcomer4d/wifi-validator/tree/Languages"> Usable Languages </a>
 </br >
+<a href="http://github.com/zcomer4d/wifi-validator/blob/master/CODE_OF_CONDUCT.md"> CODE OF CONDUCT </a>
+</br >
 wanted:
 </br >
 A Cloud for each account to store wifi passwords online
