@@ -1,4 +1,5 @@
-# Useable Languages
+<!doctype html>
+<h1>Useable Languages<h1>
 </br >
 HTML4
 </br >
@@ -17,6 +18,6 @@ Linux Terminal
 </br >
 </br >
 </br >
-<h1>
+<P>
   <font color="#FF0000"> Note: TO SUGGEST A LANGUAGE YOU CAN CREATE A PLAIN TEXT FILE AND POST YOUR REQUEST </font>
-</h1> 
+</> 
