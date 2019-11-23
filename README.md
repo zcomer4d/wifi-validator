@@ -17,6 +17,6 @@ Linux Terminal
 </br >
 </br >
 </br >
-<p>
-  <font color #FF0000>Note: if you want to suggest a language create a plain text document and post it with your  request</font>
-</p>
+<h1>
+  <font color="#FF0000"> Note: TO SUGGEST A LANGUAGE YOU CAN CREATE A PLAIN TEXT FILE AND POST YOUR REQUEST </font>
+</h1> 
