@@ -17,5 +17,5 @@ Languages Posted:
 </br >
 <a href="http://github.com/zcomer4d/wifi-validator/tree/Javascript"> Javascript </a>
 </br >
-<a href="http://github.com/zcomer4d/wifi-validator/tree/windows-kerenel"> Windows Kerenel </a>
+<a href="http://github.com/zcomer4d/wifi-validator/tree/Windows-Kerenel"> Windows Kerenel </a>
 
