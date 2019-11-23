@@ -7,4 +7,4 @@ A Cloud for each account to store wifi passwords online
 </br >
 A Way for you to login or sign up
 </br >
-CHECK OUT https://zcomer4d/wifi-validator/tree/html4
+<a href="http://github.com/wifi-validator/tree/html4"> HTML4 </a>
