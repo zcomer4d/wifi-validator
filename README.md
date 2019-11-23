@@ -10,3 +10,5 @@ A Way for you to login or sign up
 Branches
 </br >
 <a href="http://github.com/zcomer4d/wifi-validator/tree/HTML4"> HTML4 </a>
+</br >
+<a href="http://github.com/zcomer4d/wifi-validator/tree/HTML5"> HTML5 </a>
