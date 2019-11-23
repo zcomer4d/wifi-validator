@@ -13,7 +13,7 @@ Ruby
 </br >
 Linux Terminal
 </br >
-Windows Kernel
+Windows Kernel <a href="http://github.com/zcomer4d/wifi-validator/blob/Languages/windowskernel.txt"> See windowskernel.txt </a>
 </br >
 </br >
 </br >
