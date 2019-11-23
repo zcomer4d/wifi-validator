@@ -1,14 +1,13 @@
-# wifi-validator  By Zayden
-I Will Make HTML. Please Post Javascript and CSS. we are focusing on a app that can validate your wifi.
+# Useable Languages
 </br >
-wanted:
+HTML4
 </br >
-A Cloud for each account to store wifi passwords online
+HTML5
 </br >
-A Way for you to login or sign up
+Javascript
 </br >
-Branches
+CSS
 </br >
-<a href="http://github.com/zcomer4d/wifi-validator/tree/HTML4"> HTML4 </a>
+Ruby
 </br >
-<a href="http://github.com/zcomer4d/wifi-validator/tree/HTML5"> HTML5 </a>
+Linux Terminal
