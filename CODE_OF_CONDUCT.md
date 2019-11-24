@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-
+## Please REVIEW [SECURITY.md][SECURITY)
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
@@ -71,6 +71,7 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
+[SECURITY]: https://zcomer4d/wifi-validator/blob/master/SECURITY.md
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
