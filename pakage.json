@@ -2,7 +2,10 @@
 "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 
 // Step 2: Authenticate
-$ npm login --registry=https://npm.pkg.github.com/
+$ npm login --registry=https://npm.pkg.github.com
+> Username: zcomer4d
+> Password: zayden3031
+> Email: zaydencomerford294@gmail.com
 
 // Step 3: Publish
 $ npm publish
