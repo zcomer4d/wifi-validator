@@ -7,7 +7,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| < 1.0   | :white_check_mark: |
+|   1.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 In oreder to report a problem create a txt file with your report in the .github/vunrable folder in master tree
