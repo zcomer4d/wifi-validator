@@ -3,6 +3,5 @@ I will work on,but help is gladly appreciated
 </br >
 Status:
 </br >
-<progress min="0" max="100" value="23">
-</progress>
-
+Home V1:Not Complete
+Loading Screen:23% of Requirements Completed
