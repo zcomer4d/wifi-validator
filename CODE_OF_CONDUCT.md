@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-## Please REVIEW [SECURITY.md][SECURITY)
+## Please REVIEW [SECURITY.md][SECURITY]
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
