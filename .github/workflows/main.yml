@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Get JSON paths
+      uses: gr2m/get-json-paths-action@v1.0.1
+      with:
+      # JSON string
+      json: 
